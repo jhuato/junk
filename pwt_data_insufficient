@@ -1,0 +1,5 @@
+This is from Cochrane's book:
+
+``It would be nice to use a nonparametric approach -- just use histograms to characterize the joint density of $\{\ldots, x_{t−1}, x_t, x_{t+1}, \ldots\}$. Unfortunately, we will not have enough data to follow this approach in macroeconomics for at least the next $2000$ years or so. Hence, time-series consists of interesting parametric models for the joint distribution of $\{x_t\}$. The models impose structure, which you must evaluate to see if it captures the features you think are present in the data. In turn, they reduce the estimation problem to the estimation of a few parameters of the time-series model.'' (p. 9)
+
+This is good.  Honest recognition that the data available is not sufficient to draw compelling inferences.  That we have to make do with using the small samples to test models.  That a lot of humillity is called for.
